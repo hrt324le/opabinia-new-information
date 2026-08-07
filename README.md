@@ -1,3 +1,189 @@
 New Information on the Opabinia:
 
 New and recent discoveries have been made around the Opabinia. These recent develops are the newest updates on the Opabinia in decades!!! 
+
+Opabinia
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+This is a good article. Click here for more information.
+From Wikipedia, the free encyclopedia
+Opabinia
+
+Fossil specimen (holotype) on display at the Smithsonian in Washington, D.C.
+Scientific classification Edit this classification
+Kingdom: 	Animalia
+Stem group: 	Arthropoda
+Class: 	†Dinocaridida
+Order: 	†Opabiniida
+Family: 	†Opabiniidae
+Genus: 	†Opabinia
+Walcott, 1912
+Species: 	†O. regalis
+Binomial name
+†Opabinia regalis
+Walcott, 1912
+
+Opabinia regalis is an extinct stem group marine arthropod found in the Lagerstätte of the Burgess Shale (Middle Cambrian, 505 million years ago) of British Columbia.[1] Opabinia was a soft-bodied animal, measuring up to 7 cm in body length, and had a segmented trunk with flaps along its sides and a fan-shaped tail. The head showed unusual features: 5 eyes, a mouth under the head and facing backwards, and a clawed proboscis that most likely passed food to its mouth. Opabinia lived on the seafloor, using the proboscis to seek out small, soft food.[2] Fewer than twenty good specimens have been described; 3 specimens of Opabinia are known from the Greater Phyllopod bed, where they constitute less than 0.1% of the community.[3]
+
+When the first thorough examination of Opabinia in 1975 revealed its unusual features, it was thought to be unrelated to any known phylum,[4] or perhaps a relative of arthropod and annelid ancestors.[2] However, later studies since late 1990s consistently support its affinity as a member of basal arthropods, alongside the closely related radiodonts (Anomalocaris and relatives) and gilled lobopodians (Kerygmachela and Pambdelurion).[5][6][7][8][1][9][10]
+
+In the 1970s, there was an ongoing debate about whether multi-celled animals appeared suddenly during the Early Cambrian, in an event called the Cambrian explosion, or had arisen earlier but without leaving fossils. At first Opabinia was regarded as strong evidence for the "explosive" hypothesis.[4] Later the discovery of a whole series of similar lobopodian animals, some with closer resemblances to arthropods, and the development of the idea of stem groups, suggested that the Early Cambrian was a time of relatively fast evolution, but one that could be understood without assuming any unique evolutionary processes.[11]
+History of discovery
+
+In 1911, Charles Doolittle Walcott found in the Burgess Shale nine almost complete fossils of Opabinia regalis and a few of what he classified as Opabinia ? media, and published a description of all of these in 1912.[12] The generic name is derived from Opabin pass between Mount Hungabee and Mount Biddle, southeast of Lake O'Hara, British Columbia, Canada.[12] In 1966–1967, Harry B. Whittington found another good specimen,[13] and in 1975 he published a detailed description based on a very thorough dissection of some specimens and photographs of these specimens lit from a variety of angles. Whittington's analysis did not cover Opabinia ? media; Walcott's specimens of this species could not be identified in his collection.[2] In 1960 Russian paleontologists described specimens they found in the Norilsk region of Siberia and labelled Opabinia norilica,[14] but these fossils were poorly preserved, and Whittington did not feel they provided enough information to be classified as members of the genus Opabinia.[2]
+Occurrence
+
+All the recognized Opabinia specimens found so far come from the "Phyllopod bed" of the Burgess Shale, in the Canadian Rockies of British Columbia.[2]
+
+In 1997, Briggs and Nedin reported from Emu Bay Shale in South Australia a new specimen of Myoscolex that was much better preserved than previous specimens, leading them to conclude that it was a close relative of Opabinia[15]—although this interpretation was later questioned by Dzik, who instead concluded that Myoscolex was an unusual annelid worm similar to Pikaia.[16]
+Morphology
+Opabinia looked so strange that the audience at the first presentation of Whittington's analysis laughed.[2] The length of Opabinia regalis from head (excluding proboscis) to tail end ranged between 4 centimetres (1.6 in) and 7 centimetres (2.8 in).[2] One of the most distinctive characters of Opabinia is the hollow proboscis, whose total length was about one-third that of the body, and projected down from under the head. The proboscis was striated like a vacuum cleaner's hose and flexible, and it ended with a claw-like structure whose terminal edges bore 5 spines that projected inwards and forwards. The bilateral symmetry and lateral (instead of vertical, as reconstructed by Whittington 1975[2]) arrangement of the claw suggest it represents a pair of fused frontal appendages, comparable to those of radiodonts and gilled lobopodians.[17][5][18][19] The head bore five stalked eyes: two near the front and fairly close to the middle of the head, pointing upwards and forwards; two larger eyes with longer stalks near the rear and outer edges of the head, pointing upwards and sideways; and a single eye between the larger pair of stalked eyes, pointing upwards. It has been assumed that the eyes were all compound, like other arthropods' lateral eyes,[2] but this reconstruction, which is not backed up by any evidence,[2] is "somewhat fanciful".[20] The mouth was under the head, behind the proboscis, and pointed backwards, so that the digestive tract formed a U-bend on its way towards the rear of the animal. The proboscis appears to have been sufficiently long and flexible to reach the mouth.[2]
+
+The main part of the body was typically about 5 millimetres (0.20 in) wide and had 15 segments, on each of which there were pairs of flaps (lobes) pointing downwards and outwards. The flaps overlapped so that the front of each was covered by the rear edge of the one ahead of it. The body ended with what looked like a single conical segment bearing three pairs of overlapping tail fan blades that pointed up and out, forming a tail like a V-shaped double fan.[2]
+
+Interpretations of other features of Opabinia fossils differ. Since the animals did not have mineralized armor nor even tough organic exoskeletons like those of other arthropods, their bodies were flattened as they were buried and fossilized, and smaller or internal features appear as markings within the outlines of the fossils.[2][5]
+
+
+Whittington (1975) interpreted the gills as paired extensions attached dorsally to the bases of all but the first flaps on each side, and thought that these gills were flat underneath, had overlapping layers on top.[2] Bergström (1986) revealed that the "overlapping layers" were rows of individual blades, interpreted the flaps as part of dorsal coverings (tergite) over the upper surface of the body, with blades attached underneath each of them.[17][8] Budd (1996) thought the gill blades attached along the front edges on the dorsal side of all except the first flaps. He also found marks inside the flaps' front edges that he interpreted as internal channels connecting the gills to the interior of the body, much as Whittington interpreted the mark along the proboscis as an internal channel.[5] Zhang and Briggs (2007), however, interpreted all flaps have posterior spacing where the gill blades attached.[7] Budd and Daley (2011) reject the reconstruction by Zhang & Briggs, showing the flaps have complete posterior edges as in previous reconstructions. They mostly follow the reconstruction by Budd (1996) with modifications on some details (e.g., the first flap pair also has gills; the attachment point of gill blades is located more posteriorly than previously thought).[8]
+Digestive system (yellow highlight) of Opabinia, showing pairs of diverticula individualized from the triangular extension
+
+Whittington (1975) found evidence of near-triangular features along the body and concluded that they were internal structures, most likely sideways extensions of the gut (diverticula).[2] Chen et al. (1994) interpreted them as contained within the lobes along the sides.[21] Budd (1996) thought the "triangles" were too wide to fit within Opabinia's slender body, and that cross-section views showed they were attached separately from and lower than the lobes, and extended below the body.[5] He later found specimens that appeared to preserve the legs' exterior cuticle. He therefore interpreted the "triangles" as short, fleshy, conical legs (lobopods). He also found small mineralized patches at the tips of some and interpreted these as claws. Under this reconstruction, the gill-bearing flap and lobopod were homologized to the outer gill branch and inner leg branch of arthropod biramous limbs seen in Marrella, trilobites, and crustaceans.[5] Zhang and Briggs (2007) analyzed the chemical composition of the "triangles", and concluded that they had the same composition as the gut, and therefore agreed with Whittington that they were part of the digestive system. Instead, they regarded Opabinia's lobe+gill arrangement as an early form of the arthropod limbs before it split into a biramous structure.[7] However, this similar chemical composition is not only associated with the digestive tract; Budd and Daley (2011) suggest that it represents mineralization forming within fluid-filled cavities within the body, which is consistent with hollow lobopods as seen in unequivocal lobopodian fossils. They also clarify that the gut diverticula of Opabinia are a series of circular gut glands individualized from the "triangles". While they agreed on the absence of terminal claws, the presence of lobopods in Opabinia remains as a plausible interpretation.[8]
+Lifestyle
+Ecological reconstruction of Opabinia on the seafloor along with other fauna from the Burgess Shale
+Suggested proboscis mobility of Opabinia[2]
+
+The way in which the Burgess Shale animals were buried, by a mudslide or a sediment-laden current that acted as a sandstorm, suggests they lived on the surface of the seafloor.[2] Opabinia probably used its proboscis to search the sediment for food particles and pass them to its mouth.[2] Since there is no sign of anything that might function as jaws, its food was presumably small and soft.[2] The paired gut diverticula may increase the efficiency of food digestion and intake of nutrition.[22] Whittington (1975), believing that Opabinia had no legs, thought that it crawled on its lobes and that it could also have swum slowly by flapping the lobes, especially if it timed the movements to create a wave with the metachronal movement of its lobes.[2] On the other hand, he thought the body was not flexible enough to allow fish-like undulations of the whole body.[2]
+
+Considering how paleontologists' reconstructions of Opabinia differ, it is not surprising that the animal's classification was highly debated during the 20th century.[5] Charles Doolittle Walcott, the original describer, considered it to be an anostracan crustacean in 1912.[12] The idea was followed by G. Evelyn Hutchinson in 1930, providing the first reconstruction of Opabinia as an anostracan swimming upside down.[23] Alberto Simonetta provided a new reconstruction of Opabinia in 1970 very different to those of Hutchinson's, with lots of arthropod features (e.g., dorsal exoskeleton and jointed limbs) which are reminiscent of Yohoia and Leanchoilia.[24] Leif Størmer, following earlier work by Percy Raymond, thought that Opabinia belonged to the so-called "trilobitoids" (trilobites and similar taxa). After his thorough analysis, Harry B. Whittington concluded that Opabinia was not an arthropod in 1975, as he found no evidence for arthropodan jointed limbs, and that nothing like the flexible, probably fluid-filled, proboscis was known in arthropods.[2] Although he left Opabinia's classification above the family level open, the annulated but not articulated body and the unusual lateral flaps with gills persuaded him that it may have been a representative of the ancestral stock from the origin of annelids and arthropods,[2] two distinct animal phyla (Lophotrochozoan and Ecdysozoan, respectively) which were still thought to be close relatives (united under Articulata) at that time.[25]
+
+In 1985, Derek Briggs and Whittington published a major redescription of Anomalocaris, also from the Burgess Shale.[26] Soon after that, Swedish palaeontologist Jan Bergström, noting in 1986 the similarity of Anomalocaris and Opabinia, suggested that the two animals were related, as they shared numerous features (e.g., lateral flaps, gill blades, stalked eyes, and specialized frontal appendages). He classified them as primitive arthropods, although he considered that arthropods are not a single phylum.[17]
+
+In 1996, Graham Budd found what he considered evidence of short, un-jointed legs in Opabinia.[5] His examination of the gilled lobopodian Kerygmachela from the Sirius Passet lagerstätte, about 518 million years ago and over 10M years older than the Burgess Shale, convinced him that this specimen had similar legs.[27][28] He considered the legs of these two genera very similar to those of the Burgess Shale lobopodian Aysheaia and the modern onychophorans (velvet worms), which are regarded as the bearers of numerous ancestral traits shared by the ancestors of arthropods. After examining several sets of features shared by these and similar lobopodians he drew up a "broad-scale reconstruction of the arthropod stem-group", i.e., of arthropods and what he considered to be their evolutionary basal members.[5] One striking feature of this family tree is that modern tardigrades (water bears) may be Opabinia's closest living evolutionary relatives.[5] On the other hand, Hou et al. (1995, 2006) suggested Opabinia is a member of unusual cycloneuralian worms with convergent arthropod features.[29][18]
+
+Although Zhang and Briggs (2007) disagreed with Budd's diagnosis that Opabinia's "triangles" were legs, the resemblance they saw between Opabinia's lobe+gill arrangement and arthropods' biramous limbs led them to conclude that Opabinia was very closely related to arthropods. In fact, they presented a family tree very similar to Budd's except that theirs did not mention tardigrades.[7] Regardless of the different morphological interpretations, all major restudies since the 1980s similarly concluded that the resemblance between Opabinia and arthropods (e.g., stalked eyes, dorsal segmentation, posterior mouth, fused appendages, gill-like limb branches) is taxonomically significant.[17][5][7][8][1]
+Comparison of Opabinia regalis from the Burgess Shale, and Utaurora comosa, from the Wheeler Formation, House Range, Utah, USA
+
+Since the 2010s, the suggested close relationship between Opabinia and tardigrades/cycloneuralians is no longer supported, while the affinity of Opabinia as a stem-group arthropod alongside Radiodonta (a clade that includes Anomalocaris and its relatives[30]) and gilled lobopodians is widely accepted,[1][9][10] as consistently shown by multiple phylogenetic analyses,[31][32] as well as new discoveries such as the presence of arthropod-like gut glands[8][22] and the intermediate taxon Kylinxia.[32]
+
+In 2022, Paleontologists described a similar looking animal which was discovered in Cambrian-aged rocks of Utah.[33] The fossil was named Utaurora comosa, and was found within the Wheeler Shale.[33] The stem-arthropod was actually first described in 2008, but at the time it was originally considered a specimen of Anomalocaris.[34] This discovery could suggest there were other animals that looked like Opabinia, and its family may have been more diverse.[33]
+Theoretical significance
+Main article: Cambrian explosion
+Top left: retouched image of Opabinia (Walcott Cambrian Geology and Paleontology II by Charles Doolittle Walcott)
+
+Opabinia made it clear how little was known about soft-bodied animals, which do not usually leave fossils.[2] When Whittington described it in the mid-1970s, there was already a vigorous debate about the early evolution of animals. Preston Cloud argued in 1948 and 1968 that the process was "explosive",[35] and in the early 1970s Niles Eldredge and Stephen Jay Gould developed their theory of punctuated equilibrium, which views evolution as long intervals of near-stasis "punctuated" by short periods of rapid change.[36] On the other hand, around the same time, Wyatt Durham and Martin Glaessner both argued that the animal kingdom had a long Proterozoic history that was hidden by the lack of fossils.[37][38] Whittington (1975) concluded that Opabinia, and other taxa such as Marrella and Yohoia, cannot be accommodated in modern groups. This was one of the primary reasons why Gould in his book on the Burgess Shale, Wonderful Life, considered that Early Cambrian life was much more disparate and "experimental" than any later set of animals and that the Cambrian explosion was a truly dramatic event, possibly driven by unusual evolutionary mechanisms.[4] He regarded Opabinia as so important to understanding this phenomenon that he wanted to call his book Homage to Opabinia.[39]
+
+However, other discoveries and analyses soon followed, revealing similar-looking animals such as Anomalocaris from the Burgess Shale and Kerygmachela from Sirius Passet.[17][27] Another Burgess Shale animal, Aysheaia, was considered very similar to modern Onychophora,[40] which are regarded as close relatives of arthropods.[41] Paleontologists defined a group called lobopodians to include fossil panarthropods that are thought to be close relatives of onychophorans, tardigrades, and arthropods but lack jointed limbs. This group was later widely accepted as a paraphyletic grade that led to the origin of extant panarthropod phyla.
+Concept of stem groups[42]
+
+While this discussion about specific fossils such as Opabinia and Anomalocaris was going on in the late 20th century, the concept of stem groups was introduced to cover evolutionary "aunts" and "cousins". A crown group is a group of closely related living animals plus their last common ancestor plus all its descendants. A stem group contains offshoots from members of the lineage earlier than the last common ancestor of the crown group; it is a relative concept, for example tardigrades are living animals that form a crown group in their own right, but Budd (1996) regarded them also as being a stem group relative to the arthropods.[5][42] Viewing strange-looking organisms like Opabinia in this way makes it possible to see that, while the Cambrian explosion was unusual, it can be understood in terms of normal evolutionary processes.[11]
+See also
+
+References
+
+Briggs, Derek E. G. (2015-04-19). "Extraordinary fossils reveal the nature of Cambrian life: a commentary on Whittington (1975) 'The enigmatic animal Opabinia regalis, Middle Cambrian, Burgess Shale, British Columbia'". Philosophical Transactions of the Royal Society B: Biological Sciences. 370 (1666) 20140313. Bibcode:2015RSPTB.37040313B. doi:10.1098/rstb.2014.0313. PMC 4360120. PMID 25750235.
+Whittington, H. B. (June 1975). "The enigmatic animal Opabinia regalis, Middle Cambrian Burgess Shale, British Columbia". Philosophical Transactions of the Royal Society B. 271 (910): 1–43 271. Bibcode:1975RSPTB.271....1W. doi:10.1098/rstb.1975.0033. JSTOR 2417412. Free abstract at Whittington, H. B. (1975). "The Enigmatic Animal Opabinia regalis, Middle Cambrian, Burgess Shale, British Columbia". Philosophical Transactions of the Royal Society B. 271 (910): 1–43. Bibcode:1975RSPTB.271....1W. doi:10.1098/rstb.1975.0033.
+Caron, Jean-Bernard; Jackson, Donald A. (October 2006). "Taphonomy of the Greater Phyllopod Bed community, Burgess Shale". PALAIOS. 21 (5): 451–65. Bibcode:2006Palai..21..451C. doi:10.2110/palo.2003.P05-070R. JSTOR 20173022. S2CID 53646959.
+Gould, S. J. (1989). Wonderful Life. Hutchinson Radius. pp. 124–136 ff. ISBN 978-0-09-174271-3.
+Budd, G. E. (1996). "The morphology of Opabinia regalis and the reconstruction of the arthropod stem-group". Lethaia. 29 (1): 1–14. Bibcode:1996Letha..29....1B. doi:10.1111/j.1502-3931.1996.tb01831.x.
+Budd, Graham E. (1998). "The morphology and phylogenetic significance of Kerygmachela kierkegaardi Budd (Buen Formation, Lower Cambrian, N Greenland)". Earth and Environmental Science Transactions of the Royal Society of Edinburgh. 89 (4): 249–290. doi:10.1017/S0263593300002418. ISSN 1473-7116. S2CID 85645934.
+Zhang, X.; Briggs, D. E. G. (2007). "The nature and significance of the appendages of Opabinia from the Middle Cambrian Burgess Shale". Lethaia. 40 (2): 161–173. Bibcode:2007Letha..40..161Z. doi:10.1111/j.1502-3931.2007.00013.x.
+Budd, G. E.; Daley, A. C. (2011). "The lobes and lobopods of Opabinia regalis from the middle Cambrian Burgess Shale". Lethaia. 45: 83–95. doi:10.1111/j.1502-3931.2011.00264.x.
+Ortega-Hernández, Javier (2016). "Making sense of 'lower' and 'upper' stem-group Euarthropoda, with comments on the strict use of the name Arthropoda von Siebold, 1848". Biological Reviews. 91 (1): 255–273. doi:10.1111/brv.12168. PMID 25528950. S2CID 7751936.
+Ortega-Hernández, Javier; Janssen, Ralf; Budd, Graham E. (2017-05-01). "Origin and evolution of the panarthropod head – A palaeobiological and developmental perspective". Arthropod Structure & Development. 46 (3): 354–379. Bibcode:2017ArtSD..46..354O. doi:10.1016/j.asd.2016.10.011. ISSN 1467-8039. PMID 27989966.
+Budd, G. E. (2003). "The Cambrian Fossil Record and the Origin of the Phyla". Integrative and Comparative Biology. 43 (1): 157–165. doi:10.1093/icb/43.1.157. PMID 21680420.
+WALCOTT, C. D. 1912. Middle Cambrian Branchiopoda, Malacostraca, Trilobita and Merostomata. Smithsonian Miscellaneous Collections, 57: 145-228.
+Gould, S. J. (1990). Wonderful Life. London: Hutchinson Radius. p. 77 and p. 189. ISBN 978-0-09-174271-3.
+Miroshnikov, L. D. and Krawzov, A. G. (1960). Rare paleontological remains and traces of life in late Cambrian deposits of the northwestern Siberian platform. Palaeontology and biostratigraphy of the Soviet Arctic, 3, pp. 28–41.
+Briggs, D. E. G.; Nedin, C. (January 1997). "The Taphonomy and Affinities of the Problematic Fossil Myoscolex from the Lower Cambrian Emu Bay Shale of South Australia". Journal of Paleontology. 71 (1): 22–32. Bibcode:1997JPal...71...22B. doi:10.1017/S0022336000038919. JSTOR 1306537. S2CID 131851540.
+Dzik, J. (2004). "Anatomy and relationships of the Early Cambrian worm Myoscolex". Zoologica Scripta. 33 (1): 57–69. doi:10.1111/j.1463-6409.2004.00136.x. S2CID 85216629.
+Bergström, J. (1986). "Opabinia and Anomalocaris, unique Cambrian arthropods". Lethaia. 19 (3): 241–246. Bibcode:1986Letha..19..241B. doi:10.1111/j.1502-3931.1986.tb00738.x.
+Xianguang, Hou; Bergström, Jan (2006). "Dinocaridids – anomalous arthropods or arthropod-like worms?". In Jiayu, Rong; Zongjie, Fang; Zhanghe, Zhou; Renbin, Zhan; Xiangdong, Wang; Xunlai, Yuan (eds.). Originations, Radiations and Biodiversity Changes – evidences from the Chinese fossil record. pp. 139–158. CiteSeerX 10.1.1.693.5869.
+Chipman, Ariel D. (2015-12-18). "An embryological perspective on the early arthropod fossil record". BMC Evolutionary Biology. 15 (1) 285. Bibcode:2015BMCEE..15..285C. doi:10.1186/s12862-015-0566-z. ISSN 1471-2148. PMC 4683962. PMID 26678148.
+Paulus, H. F. (2000). "Phylogeny of the Myriapoda-Crustacea-Insecta: a new attempt using photoreceptor structure*". Journal of Zoological Systematics & Evolutionary Research. 38 (3): 189–208. doi:10.1046/j.1439-0469.2000.383152.x.
+Chen, J-Y.; Ramsköld, L.; Gui-qing Zhou, G-Q. (May 1994). "Evidence for Monophyly and Arthropod Affinity of Cambrian Giant Predators". Science. 264 (5163): 1304–1308. Bibcode:1994Sci...264.1304C. doi:10.1126/science.264.5163.1304. PMID 17780848. S2CID 1913482.
+Vannier, Jean; Liu, Jianni; Lerosey-Aubril, Rudy; Vinther, Jakob; Daley, Allison C. (2014-05-02). "Sophisticated digestive systems in early arthropods". Nature Communications. 5 (1): 3641. Bibcode:2014NatCo...5.3641V. doi:10.1038/ncomms4641. ISSN 2041-1723. PMID 24785191. S2CID 205324774.
+Hutchinson, George Evelyn (1930). Restudy of some Burgess shale fossils. Proceedings of the United States National Museum 78 (2854): 1–24. doi:10.5479/si.00963801.78-2854.1.
+Simonetta AM. 1970 Studies on non-trilobite arthropods of the Burgess Shale (Middle Cambrian). Palaeontogr. Ital. 66, 35–45.
+Edgecombe, Gregory D. (2009). "Palaeontological and Molecular Evidence Linking Arthropods, Onychophorans, and other Ecdysozoa". Evolution: Education and Outreach. 2 (2): 178–190. doi:10.1007/s12052-009-0118-3. ISSN 1936-6434.
+Whittington, Harry Blackmore; Briggs, Derek Ernest Gilmor (1985-05-14). "The largest Cambrian animal, Anomalocaris, Burgess Shale, British-Columbia". Philosophical Transactions of the Royal Society of London. B, Biological Sciences. 309 (1141): 569–609. Bibcode:1985RSPTB.309..569W. doi:10.1098/rstb.1985.0096.
+Budd, G. E. (1993). "A Cambrian gilled lobopod from Greenland". Nature. 364 (6439): 709–711. Bibcode:1993Natur.364..709B. doi:10.1038/364709a0. S2CID 4341971.
+Budd, G. E. (1997). "Stem Group Arthropods from the Lower Cambrian Sirius Passet Fauna of North Greenland". In Fortey, R. A.; Thomas, R. H. (eds.). Arthropod Relationships – Special Volume Series 55. Systematics Association.
+Xian-Guang, Hou; Bergström, Jan; Ahlberg, Per (1995-09-01). "Anomalocaris and other large animals in the lower Cambrian Chengjiang fauna of southwest China". GFF. 117 (3): 163–183. Bibcode:1995GFF...117..163X. doi:10.1080/11035899509546213. ISSN 1103-5897.
+Collins, Desmond (1996). "The "evolution" of Anomalocaris and its classification in the arthropod class Dinocarida (nov.) and order Radiodonta (nov.)". Journal of Paleontology. 70 (2): 280–293. Bibcode:1996JPal...70..280C. doi:10.1017/S0022336000023362. ISSN 0022-3360. S2CID 131622496.
+
+    Legg, David A.; Sutton, Mark D.; Edgecombe, Gregory D.; Caron, Jean-Bernard (2012-12-07). "Cambrian bivalved arthropod reveals origin of arthrodization". Proceedings of the Royal Society B: Biological Sciences. 279 (1748): 4699–4704. doi:10.1098/rspb.2012.1958. PMC 3497099. PMID 23055069.
+    Legg, David (2013). "Multi-Segmented Arthropods from the Middle Cambrian of British Columbia (Canada)". Journal of Paleontology. 87 (3): 493–501. Bibcode:2013JPal...87..493L. doi:10.1666/12-112.1. ISSN 0022-3360. S2CID 86725173.
+    Legg, David A.; Vannier, Jean (2013). "The affinities of the cosmopolitan arthropod Isoxys and its implications for the origin of arthropods". Lethaia. 46 (4): 540–550. Bibcode:2013Letha..46..540L. doi:10.1111/let.12032. ISSN 1502-3931.
+    Legg, David A.; Sutton, Mark D.; Edgecombe, Gregory D. (2013-09-30). "Arthropod fossil data increase congruence of morphological and molecular phylogenies". Nature Communications. 4 (1): 2485. Bibcode:2013NatCo...4.2485L. doi:10.1038/ncomms3485. ISSN 2041-1723. PMID 24077329.
+    Smith, Martin R.; Ortega-Hernández, Javier (2014). "Hallucigenia's onychophoran-like claws and the case for Tactopoda". Nature. 514 (7522): 363–366. Bibcode:2014Natur.514..363S. doi:10.1038/nature13576. ISSN 1476-4687. PMID 25132546. S2CID 205239797.
+    Van Roy, Peter; Daley, Allison C.; Briggs, Derek E. G. (2015). "Anomalocaridid trunk limb homology revealed by a giant filter-feeder with paired flaps". Nature. 522 (7554): 77–80. Bibcode:2015Natur.522...77V. doi:10.1038/nature14256. ISSN 1476-4687. PMID 25762145. S2CID 205242881.
+    Smith, Martin R.; Caron, Jean-Bernard (2015). "Hallucigenia's head and the pharyngeal armature of early ecdysozoans". Nature. 523 (7558): 75–78. Bibcode:2015Natur.523...75S. doi:10.1038/nature14573. ISSN 1476-4687. PMID 26106857. S2CID 205244325.
+    Caron, Jean-Bernard; Aria, Cédric (2017-01-31). "Cambrian suspension-feeding lobopodians and the early radiation of panarthropods". BMC Evolutionary Biology. 17 (1): 29. Bibcode:2017BMCEE..17...29C. doi:10.1186/s12862-016-0858-y. ISSN 1471-2148. PMC 5282736. PMID 28137244.
+    Siveter, Derek J.; Briggs, Derek E. G.; Siveter, David J.; Sutton, Mark D.; Legg, David (2018). "A three-dimensionally preserved lobopodian from the Herefordshire (Silurian) Lagerstätte, UK". Royal Society Open Science. 5 (8) 172101. Bibcode:2018RSOS....572101S. doi:10.1098/rsos.172101. PMC 6124121. PMID 30224988.
+    Anderson, Evan P.; Schiffbauer, James D.; Jacquet, Sarah M.; Lamsdell, James C.; Kluessendorf, Joanne; Mikulic, Donald G. (2021). "Stranger than a scorpion: a reassessment of Parioscorpio venator, a problematic arthropod from the Llandoverian Waukesha Lagerstätte". Palaeontology. 64 (3): 429–474. Bibcode:2021Palgy..64..429A. doi:10.1111/pala.12534. ISSN 1475-4983. S2CID 234812878.
+    Moysiuk, Joseph; Caron, Jean-Bernard (2020). "Exceptional multifunctionality in the feeding apparatus of a mid-Cambrian radiodont". Paleobiology. 47 (4): 704–724. Bibcode:2021Pbio...47..704M. doi:10.1017/pab.2021.19. ISSN 0094-8373. S2CID 236552819.
+
+Zeng, Han; Zhao, Fangchen; Niu, Kecheng; Zhu, Maoyan; Huang, Diying (2020). "An early Cambrian euarthropod with radiodont-like raptorial appendages". Nature. 588 (7836): 101–105. Bibcode:2020Natur.588..101Z. doi:10.1038/s41586-020-2883-7. ISSN 1476-4687. PMID 33149303. S2CID 226248177.
+Pates, Stephen; Wolfe, Joanna M.; Lerosey-Aubril, Rudy; Daley, Allison C.; Ortega-Hernández, Javier (2022-02-09). "New opabiniid diversifies the weirdest wonders of the euarthropod stem group". Proceedings of the Royal Society B: Biological Sciences. 289 (1968) 20212093. doi:10.1098/rspb.2021.2093. PMC 8826304. PMID 35135344.
+Briggs, Derek E. G.; Lieberman, Bruce S.; Hendricks, Jonathan R.; Halgedahl, Susan L.; Jarrard, Richard D. (2008). "Middle Cambrian arthropods from Utah". Journal of Paleontology. 82 (2): 238–254. Bibcode:2008JPal...82..238B. doi:10.1666/06-086.1. ISSN 0022-3360. S2CID 31568651.
+Cloud, P. E. (1948). "Some problems and patterns of evolution exemplified by fossil invertebrates". Evolution. 2 (4): 322–350. doi:10.2307/2405523. JSTOR 2405523. PMID 18122310. and Cloud, P. E. (1968). "Pre-metazoan evolution and the origins of the Metazoa.". In Drake, E. T. (ed.). Evolution and Environment. New Haven, Conn.: Yale University Press. pp. 1–72.
+Eldredge, N.; Gould, S. J. (1989). "APPENDIX: Punctuated Equilibria: An Alternative to Phyletic Gradualism". Time Frames: The Evolution of Punctuated Equilibria. By Eldredge, N. pp. 193–224. doi:10.1515/9781400860296.193. ISBN 978-1-4008-6029-6.
+Bengtson, Stefan (2004). "Early Skeletal Fossils". In Lipps, Jere H.; Waggoner, Benjamin M. (eds.). Neoproterozoic-Cambrian Biological Revolutions: Presented as a Paleontological Society Short Course at the Annual Meeting of the Geological Society of America, Denver, Colorado, November 6, 2004. Paleontological Society Papers. Vol. 10. New Haven, CT: Yale University Reprographics & Imaging Service; Paleontological Society. ISSN 1089-3326. OCLC 57481790. Retrieved 2015-02-06.
+Durham, J. W. (1971). "The fossil record and the origin of the Deuterostomata". Proceedings of the North American Paleontological Convention, Part H: 1104–1132. and Glaessner, M. F. (1972). "Precambrian palaeozoology". In Jones, J. B.; McGowran, B. (eds.). Stratigraphic Problems of the Later Precambrian and Early Cambrian. Vol. 1. University of Adelaide. pp. 43–52.
+Knoll, A. H. (2004). "Cambrian Redux". The First Three Billion Years of Evolution on Earth. Princeton University Press. p. 192. ISBN 978-0-691-12029-4. Retrieved 2009-04-22.
+Robison, R. A. (January 1985). "Affinities of Aysheaia (Onychophora), with Description of a New Cambrian Species". Journal of Paleontology. 59 (1): 226–235. JSTOR 1304837.
+Jacobs, D. K.; Wray, C. G.; Wedeen, C. J.; Kostriken, R.; DeSalle, R.; Staton, J. L.; Gates, R. D.; Lindberg, D. R. (2000). "Molluscan engrailed Expression, Serial Organization, and Shell Evolution". Evolution and Development. 2 (6): 340–347. doi:10.1046/j.1525-142x.2000.00077.x. PMID 11256378. S2CID 25274057.
+
+    Craske, A. J.; Jefferies, R. P. S. (1989). "A new mitrate from the Upper Ordovician of Norway, and a new approach to subdividing a plesion". Palaeontology. 32: 69–99.
+
+Further reading
+
+    Bergström, J. (1987). "The Cambrian Opabinia and Anomalocaris". Lethaia. 20 (2): 187–188. Bibcode:1987Letha..20..187B. doi:10.1111/j.1502-3931.1987.tb02037.x.
+    Briggs, D. E. G.; Whittington, H. B. (1987). "The affinities of the Cambrian animals Anomalocaris and Opabinia". Lethaia. 20 (2): 185–186. Bibcode:1987Letha..20..185B. doi:10.1111/j.1502-3931.1987.tb02036.x.
+
+External links
+Wikimedia Commons logo
+Wikimedia Commons has media related to Opabinia.
+Wikispecies logo
+Wikispecies has information related to Opabinia.
+
+    "Opabinia regalis". Burgess Shale Fossil Gallery. Virtual Museum of Canada. 2011. Archived from the original on 2020-11-12. Retrieved 2023-01-21.
+    Smithsonian page on Opabinia, with photo of Burgess Shale fossil
+
+    vte
+
+Dinocaridida
+
+	
+
+	
+
+	
+
+	
+
+	
+Dinocaridida
+
+Categories:
+
+    DinocarididaCambrian arthropods of North AmericaBurgess Shale fossilsTaxa named by Charles Doolittle WalcottFossil taxa described in 1912Miaolingian genera
+
+    This page was last edited on 11 July 2026, at 11:00 (UTC). Page was rendered with Parsoid.
+    Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Legal & safety contacts
+    Code of Conduct
+    Developers
+    Statistic
+https://en.wikipedia.org/wiki/Opabinia

@@ -1,19 +1,10 @@
-New Information on the Opabinia:
+# New Information on the Opabinia:
 
-New and recent discoveries have been made around the Opabinia. These recent develops are the newest updates on the Opabinia in decades!!! 
+New and recent discoveries have been made around the Opabinia. These recent developments are the newest updates on the Opabinia in decades!!! Read below to find new information on the Opabinia.
 
-Opabinia
+## General Information
 
-    Article
-    Talk
-
-    Read
-    Edit
-    View history
-
-This is a good article. Click here for more information.
-From Wikipedia, the free encyclopedia
-Opabinia
+# Opabinia
 
 Fossil specimen (holotype) on display at the Smithsonian in Washington, D.C.
 Scientific classification Edit this classification
@@ -171,12 +162,13 @@ Dinocaridida
 	
 Dinocaridida
 
-Categories:
+Categories
 
-    DinocarididaCambrian arthropods of North AmericaBurgess Shale fossilsTaxa named by Charles Doolittle WalcottFossil taxa described in 1912Miaolingian genera
+	DinocarididaCambrian arthropods of North AmericaBurgess Shale fossilsTaxa named by Charles Doolittle WalcottFossil taxa described in 1912Miaolingian genera
 
-    This page was last edited on 11 July 2026, at 11:00 (UTC). Page was rendered with Parsoid.
-    Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+This page was last edited on 11 July 2026, at 11:00 (UTC). Page was rendered with Parsoid.
+
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
 
     Privacy policy
     About Wikipedia
@@ -186,4 +178,4 @@ Categories:
     Code of Conduct
     Developers
     Statistic
-https://en.wikipedia.org/wiki/Opabinia
+Citation: https://en.wikipedia.org/wiki/Opabinia

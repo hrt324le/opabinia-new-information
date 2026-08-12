@@ -1,6 +1,6 @@
 # New Information on the Opabinia:
 
-New and recent discoveries have been made around the Opabinia. These recent developments are the newest updates on the Opabinia in decades!!! Read below to find new information on the Opabinia.
+New and recent discoveries have been made around the Opabinia. These recent developments are the newest updates on the Opabinia in decades!!! This repository contains new data sets and matrices based off of recent developments. Read below to find new information on the Opabinia.
 
 ## General Information
 

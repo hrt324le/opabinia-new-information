@@ -2,9 +2,7 @@
 
 New and recent discoveries have been made around the Opabinia. These recent developments are the newest updates on the Opabinia in decades!!! This repository contains new data sets and matrices based off of recent developments. Read below to find new information on the Opabinia.
 
-## General Information
-
-# Opabinia
+## Opabinia
 
 Opabinia regalis is an extinct stem group marine arthropod found in the Lagerstätte of the Burgess Shale (Middle Cambrian, 505 million years ago) of British Columbia.[1] Opabinia was a soft-bodied animal, measuring up to 7 cm in body length, and had a segmented trunk with flaps along its sides and a fan-shaped tail. The head showed unusual features: 5 eyes, a mouth under the head and facing backwards, and a clawed proboscis that most likely passed food to its mouth. Opabinia lived on the seafloor, using the proboscis to seek out small, soft food.[2] Fewer than twenty good specimens have been described; 3 specimens of Opabinia are known from the Greater Phyllopod bed, where they constitute less than 0.1% of the community.[3]
 

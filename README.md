@@ -11,11 +11,13 @@ When the first thorough examination of Opabinia in 1975 revealed its unusual fea
 In the 1970s, there was an ongoing debate about whether multi-celled animals appeared suddenly during the Early Cambrian, in an event called the Cambrian explosion, or had arisen earlier but without leaving fossils. At first Opabinia was regarded as strong evidence for the "explosive" hypothesis.[4] Later the discovery of a whole series of similar lobopodian animals, some with closer resemblances to arthropods, and the development of the idea of stem groups, suggested that the Early Cambrian was a time of relatively fast evolution, but one that could be understood without assuming any unique evolutionary processes.[11]
 
 ### Other new resources:
-- ...
-- ...
-- ...
-- ...
-- ...
+- https://en.wikipedia.org/wiki/Opabinia
+- https://www.researchgate.net/publication/229911603_The_morphology_of_Opabinia_regalis_and_the_reconstruction_of_the_arthropod_stem-group
+- https://ui.adsabs.harvard.edu/abs/1975RSPTB.271....lW/abstract
+- https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1975.0033
+- https://www.fossilguy.com/gallery/invert/opabinia/index.htm
+- https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0313
+- https://www.scientificamerican.com/article/five-eyed-nozzle-nosed-oddity-lingered-far-beyond-the-cambrian-period/
 
 ### History of discovery
 
